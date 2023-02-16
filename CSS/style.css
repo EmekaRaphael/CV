@@ -1,0 +1,23 @@
+body {
+    background-color: blanchedalmond;
+}
+
+h1,
+h3 {
+    color: #66bfbf;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+
+img {
+    height: 150px;
+    width: 150px;
+    border-radius: 75px;
+}
+
